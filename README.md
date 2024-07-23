@@ -1,4 +1,4 @@
-# Hello! 👋
+# Hello!
 
 ## 🌍 GIS Specialist & Data Enthusiast 🚀
 
